@@ -1,0 +1,81 @@
+﻿#lk1 {
+    color: white;
+    font-size: 48px;
+    position: absolute;
+    top: 238px;
+    left: 83px;
+    width: 37%;
+    height: 63px;
+}
+#lk2 {
+    color: white;
+    font-size: 15px;
+    position: absolute;
+    top: 305px;
+    left: 82px;
+    width: 27%;
+    height: 298px;
+    text-align:justify;
+}
+#lk3 {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 400px;
+    left: 564px;
+    width: 12%;
+    height: 31px;
+    text-decoration: underline;
+    right: 637px;
+}
+#lk4 {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 403px;
+    width: 14%;
+    height: 33px;
+    text-decoration: underline;
+    left: 771px;
+}
+#lk5 {
+    color: white;
+    font-size: 25px;
+    position: absolute;
+    top: 401px;
+    left: 982px;
+    width: 21%;
+    height: 32px;
+    text-decoration:underline;
+}
+#facilidade {
+    position: absolute;
+    background-image: url('../Imagem/Facilidade.jpeg');
+    background-attachment: initial;
+    background-size: cover;
+    width: 200px;
+    height: 115px;
+    top: 262px;
+    left: 935px;
+}
+#controle {
+    position: absolute;
+    background-image: url('../Imagem/Controle.jpeg');
+    background-attachment: initial;
+    background-size: cover;
+    width: 200px;
+    height: 115px;
+    top: 262px;
+    left: 722px;
+}
+#Tecno {
+    position: absolute;
+    background-image: url('../Imagem/Seguranca.jpeg');
+    background-attachment: initial;
+    background-size: cover;
+    width: 200px;
+    height: 115px;
+    top: 262px;
+    left: 518px;
+}
+

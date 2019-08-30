@@ -1,0 +1,184 @@
+﻿#fundo {
+    background-color: black;
+    width: 100%;
+    height: 400px;
+    background-attachment: initial;
+    background-image: url('../Imagem/Back.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+#Logo {
+    background-color: white;
+    width: 220px;
+    height: 100px;
+    background-image: url('../Imagem/Logo.jpg');
+    background-repeat: no-repeat;
+    background-size: contain;
+    background-position: center;
+}
+
+#Complemento {
+    background-color: darkslategray;
+    width: 100%;
+    height: 150px;
+}
+#Label1 {
+    color: white;
+    font-size: 54px;
+    position: absolute;
+    top: 219px;
+    left: 588px;
+    width: 21%;
+    height: 63px;
+}
+#FACE {
+    width: 40px;
+    height: 40px;
+    background-attachment: initial;
+    background-image: url('../Imagem/face.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    top: 18px;
+    left: 782px;
+}
+#WHATS {
+    width: 40px;
+    height: 40px;
+    background-attachment: initial;
+    background-image: url('../Imagem/WhatsApp.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    top: 18px;
+    left: 914px;
+}
+#GMAIL {
+    width: 40px;
+    height: 40px;
+    background-attachment: initial;
+    background-image: url('../Imagem/gmail.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    top: 18px;
+    left: 826px;
+}
+#TWITTER {
+    width: 40px;
+    height: 40px;
+    background-attachment: initial;
+    background-image: url('../Imagem/twitter.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    top: 18px;
+    left: 871px;
+}
+#lbNu 
+{
+    position: absolute;
+    top: 630px;
+    left: 1192px;
+    width: 151px;
+    height: 18px;
+    text-align: center;
+    font-size: 16px;
+}
+#lbEnd 
+{
+    position: absolute;
+    top: 716px;
+    left: 923px;
+    width: 462px;
+    height: 18px;
+    text-align: center;
+    font-size: 15px;
+}
+#ImTel {
+    width: 31px;
+    height: 29px;
+    background-attachment: initial;
+    background-image: url('../Imagem/fone.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    top: 625px;
+    left: 1186px;
+}
+#ImMaps {
+    width: 57px;
+    height: 51px;
+    background-attachment: initial;
+    background-image: url('../Imagem/maps.png');
+    background-repeat: no-repeat;
+    position: absolute;
+    background-size: cover;
+    top: 657px;
+    left: 1262px;
+    right: 68px;
+}
+#txtLetter {
+    position: absolute;
+    top: 691px;
+    left: 21px;
+    height: 24px;
+    width: 263px;
+    font-size: 18px;
+}
+
+#btOK {
+    position: absolute;
+    top: 695px;
+    left: 303px;
+    height: 26px;
+    width: 36px;
+    font-size: 18px;
+}
+#lbD {
+    position: absolute;
+    top: 728px;
+    left: 461px;
+    width: 462px;
+    height: 18px;
+    text-align: center;
+    font-size: 15px;
+}
+
+#lbEn {
+    position: absolute;
+    top: 11px;
+    left: 1092px;
+    width: 196px;
+    height: 30px;
+    text-align: center;
+    font-size: 24px;
+}
+#lbNew {
+    position: absolute;
+    top: 620px;
+    left: 67px;
+    height: 36px;
+    width: 182px;
+    font-size: 32px;
+}
+#lbsubL {
+    position: absolute;
+    top: 659px;
+    left: 36px;
+    height: 24px;
+    width: 263px;
+    font-size: 18px;
+}
+#NomeLo {
+    position: absolute;
+    top: 27px;
+    left: 1171px;
+    width: 107px;
+}
+
+
+#form1 {
+    width: 1322px;
+}

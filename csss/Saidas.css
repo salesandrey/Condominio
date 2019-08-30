@@ -1,0 +1,60 @@
+﻿#clda{
+    position:absolute;
+    top: 236px;
+    left: 701px;
+    width: 226px;
+}
+#dp12 {
+    position: absolute;
+    top: 446px;
+    left: 702px;
+    right: 176px;
+    width:91px;
+}
+#dp13 
+{
+    position: absolute;
+    top: 444px;
+    left: 822px;
+    width: 91px;
+    height: 28px;
+}
+#txtNoome 
+{
+    position: absolute;
+    top: 489px;
+    left: 700px;
+    width: 226px;
+}
+#registrar 
+{
+    position: absolute;
+    top: 531px;
+    left: 750px;
+    width: 126px;
+}
+#lbNomeConv {
+    position: absolute;
+    top: 490px;
+    left: 560px;
+    width: 126px;
+    text-align:right;
+}
+#lbSair {
+    position: absolute;
+    top: 241px;
+    left: 274px;
+    width: 126px;
+    font-size: 24px;
+    text-align: center;
+}
+#lbEntrar {
+    position: absolute;
+    top: 240px;
+    left: 31px;
+    width: 168px;
+    height: 24px;
+    font-size: 24px;
+    text-align:center;
+    right: 770px;
+}

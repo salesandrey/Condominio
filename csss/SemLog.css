@@ -1,0 +1,43 @@
+﻿#Login{
+    position:absolute;
+    top: 55px;
+    left: 1130px;
+}
+#Senha {
+    position: absolute;
+    top: 105px;
+    left: 1130px;
+}
+
+#btEnter {
+    position: absolute;
+    font-size: 20px;
+    top: 149px;
+    left: 1179px;
+    height: 31px;
+    width: 82px;
+}
+
+#lb1 {
+    position: absolute;
+    font-size: 20px;
+    top: 55px;
+    left: 1068px;
+    height: 20px;
+}
+
+#lb2 {
+    position: absolute;
+    font-size: 20px;
+    top: 105px;
+    left: 1067px;
+    height: 20px;
+}
+#lbMs {
+    position: absolute;
+    font-size: 10px;
+    top: 127px;
+    left: 1147px;
+    height: 20px;
+    width: 161px;
+}

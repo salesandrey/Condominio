@@ -1,0 +1,124 @@
+﻿#lbtt {
+    position: absolute;
+    top: 235px;
+    left: 35px;
+    width: 486px;
+    height: 55px;
+    text-align: center;
+    font-size: 48px;
+}
+#imC {
+    position: absolute;
+    background-image: url('../Imagem/gmail.png');
+    background-attachment: initial;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    top: 330px;
+    left: 65px;
+}
+#imD {
+    position: absolute;
+    background-image: url('../Imagem/face.png');
+    background-attachment: initial;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    top: 380px;
+    left: 66px;
+}
+#imE {
+    position: absolute;
+    background-image: url('../Imagem/twitter.png');
+    background-attachment: initial;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    top: 430px;
+    left: 65px;
+}
+#imF {
+    position: absolute;
+    background-image: url('../Imagem/WhatsApp.png');
+    background-attachment: initial;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    top: 480px;
+    left: 65px;
+}
+#imG {
+    position: absolute;
+    background-image: url('../Imagem/fone.png');
+    background-color:white;
+    background-attachment: initial;
+    background-size: cover;
+    width: 40px;
+    height: 40px;
+    top: 530px;
+    left: 65px;
+}
+#imH {
+    position: absolute;
+    background-image: url('../Imagem/maps.png');
+    background-attachment: initial;
+    background-size:contain;
+    background-repeat: no-repeat;
+    width: 135px;
+    height: 111px;
+    top: 419px;
+    left: 672px;
+}
+#llA {
+    position: absolute;
+    font-size:20px;
+    width: 263px;
+    height: 19px;
+    top: 344px;
+    left: 132px;
+}
+
+#llB {
+    position: absolute;
+    font-size: 20px;
+    width: 263px;
+    height: 19px;
+    top: 398px;
+    left: 131px;
+}
+
+#llC {
+    position: absolute;
+    font-size: 20px;
+    width: 263px;
+    height: 19px;
+    top: 451px;
+    left: 132px;
+}
+
+#llD {
+    position: absolute;
+    font-size: 20px;
+    width: 263px;
+    height: 19px;
+    top: 496px;
+    left: 126px;
+}
+
+#llE {
+    position: absolute;
+    font-size: 20px;
+    width: 263px;
+    height: 19px;
+    top: 545px;
+    left: 126px;
+}
+
+#llF {
+    position: absolute;
+    font-size: 15px;
+    width: 340px;
+    height: 19px;
+    top: 562px;
+    left: 548px;
+}

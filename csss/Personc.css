@@ -1,0 +1,59 @@
+﻿#lo1 {
+    color: white;
+    font-size: 48px;
+    position: absolute;
+    top: 238px;
+    left: 83px;
+    width: 37%;
+    height: 63px;
+}
+#lo2 
+{
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 305px;
+    left: 82px;
+    width: 22%;
+    height: 77px;
+}
+#lo3 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 222px;
+    left: 849px;
+    width: 37%;
+    height: 63px;
+}
+#lo4 {
+    color: white;
+    font-size: 30px;
+    position: absolute;
+    top: 412px;
+    left: 854px;
+    width: 37%;
+    height: 63px;
+}
+#FOTO1 {
+    position: absolute;
+    background-image: url('../Imagem/person3.jpeg');
+    background-attachment: initial;
+    background-size: cover;
+    width: 137px;
+    height: 169px;
+    top: 220px;
+    left: 693px;
+    bottom: 157px;
+}
+#FOTO2 {
+    position: absolute;
+    background-image: url('../Imagem/person2.jpeg');
+    background-attachment: initial;
+    background-size: cover;
+    height: 163px;
+    top: 411px;
+    left: 688px;
+    width: 143px;
+}
+

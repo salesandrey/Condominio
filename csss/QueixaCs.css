@@ -1,0 +1,43 @@
+﻿#btCriar
+{
+    position:absolute;
+    top: 400px;
+    left: 66px;
+    width:100px;
+    height:30px;
+    bottom: 160px;
+}
+#btVer {
+    position: absolute;
+    top: 350px;
+    left: 66px;
+    width: 100px;
+    height:30px;
+}
+#btEnviar {
+    position: absolute;
+    top: 463px;
+    left: 832px;
+    width: 100px;
+}
+#txtQ {
+    position: absolute;
+    top: 326px;
+    left: 601px;
+}
+#lb1 {
+    position: absolute;
+    font-size: 54px;
+    color: white;
+    top: 219px;
+    left: 588px;
+}
+#btExcluir {
+    position: absolute;
+    top: 450px;
+    left: 66px;
+    width: 100px;
+    height: 30px;
+    bottom: 160px;
+}
+

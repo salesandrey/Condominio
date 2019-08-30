@@ -1,0 +1,115 @@
+﻿#txtNome {
+    position: absolute;
+    top: 324px;
+    left: 559px;
+    width: 30%;
+    height: 20px;
+}
+
+#txtData {
+    position: absolute;
+    top: 361px;
+    left: 559px;
+    width: 30%;
+    height: 20px;
+}
+
+#Label2 {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 328px;
+    left: 480px;
+    width: 6%;
+    height: 23px;
+}
+
+#Label3 {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 363px;
+    left: 335px;
+    width: 22%;
+    height: 23px;
+}
+
+#Label4 {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 399px;
+    left: 490px;
+    width: 5%;
+    height: 23px;
+}
+
+#Label5 {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 437px;
+    left: 493px;
+    width: 4%;
+    height: 24px;
+}
+
+#Label6 {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 470px;
+    left: 490px;
+    width: 4%;
+    height: 23px;
+}
+
+#Label7 {
+    color: white;
+    font-size: 24px;
+    position: absolute;
+    top: 514px;
+    left: 408px;
+    width: 7%;
+    height: 23px;
+}
+
+#txtAp {
+    position: absolute;
+    top: 510px;
+    left: 556px;
+    width: 30%;
+    height: 20px;
+}
+
+#txtCPF {
+    position: absolute;
+    top: 434px;
+    left: 556px;
+    width: 30%;
+    height: 20px;
+}
+
+#dp1 {
+    position: absolute;
+    top: 400px;
+    left: 557px;
+    width: 30%;
+    height: 20px;
+}
+
+#dp2 {
+    position: absolute;
+    top: 475px;
+    left: 556px;
+    width: 30%;
+    height: 20px;
+}
+
+#BtCd {
+    position: absolute;
+    top: 558px;
+    left: 743px;
+    width: 143px;
+    height: 30px;
+}

@@ -1,0 +1,68 @@
+﻿#ImSer {
+    position: absolute;
+    width: 249px;
+    height: 274px;
+    background-attachment: initial;
+    background-image: url('../Imagem/servidor.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    top: 289px;
+    left: 484px;
+}
+#lbTi {
+    position: absolute;
+    text-align: center;
+    top: 209px;
+    left: -24px;
+    width: 1370px;
+    height: 62px;
+    font-size: 50px;
+}
+#lbsub {
+    position: absolute;
+    top: 298px;
+    left: 31px;
+    font-size: 20px;
+}
+#lbCorpo {
+    position: absolute;
+    top: 342px;
+    left: 48px;
+    width: 402px;
+    height: 140px;
+    text-align:justify;
+}
+#lbfr {
+    position: absolute;
+    top: 293px;
+    left: 761px;
+    width: 422px;
+    height: 36px;
+    text-align: justify;
+}
+#lbfr2 {
+    position: absolute;
+    top: 353px;
+    left: 765px;
+    width: 343px;
+    height: 48px;
+    text-align: justify;
+}
+#lbfr3 {
+    position: absolute;
+    top: 393px;
+    left: 763px;
+    width: 343px;
+    height: 48px;
+    text-align: justify;
+}
+#lbfr4 {
+    position: absolute;
+    top: 431px;
+    left: 712px;
+    width: 343px;
+    height: 48px;
+    text-align: center;
+    font-size:24px;
+}
+
